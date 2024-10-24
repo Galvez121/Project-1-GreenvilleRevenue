@@ -1,0 +1,14 @@
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\bin\Debug\net8.0\GreenvilleRevenue.exe
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\bin\Debug\net8.0\GreenvilleRevenue.deps.json
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\bin\Debug\net8.0\GreenvilleRevenue.runtimeconfig.json
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\bin\Debug\net8.0\GreenvilleRevenue.dll
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\bin\Debug\net8.0\GreenvilleRevenue.pdb
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\obj\Debug\net8.0\GreenvilleRevenue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\obj\Debug\net8.0\GreenvilleRevenue.AssemblyInfoInputs.cache
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\obj\Debug\net8.0\GreenvilleRevenue.AssemblyInfo.cs
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\obj\Debug\net8.0\GreenvilleRevenue.csproj.CoreCompileInputs.cache
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\obj\Debug\net8.0\GreenvilleRevenue.dll
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\obj\Debug\net8.0\refint\GreenvilleRevenue.dll
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\obj\Debug\net8.0\GreenvilleRevenue.pdb
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\obj\Debug\net8.0\GreenvilleRevenue.genruntimeconfig.cache
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Project 1 GreenvilleRevenue\GreenvilleRevenue\obj\Debug\net8.0\ref\GreenvilleRevenue.dll
