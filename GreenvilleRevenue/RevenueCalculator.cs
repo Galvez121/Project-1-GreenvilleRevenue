@@ -18,8 +18,18 @@ public class RevenueCalculator
         Console.WriteLine($"\nLast year's competition had {lastYearContestants} contestants, and this year's has {currentYearContestants} contestants.");
         Console.WriteLine("Revenue expected this year is {0}", currentYearRevenue);
        
-        // Comparison with last year's revenue
-        bool isBigger = currentYearContestants > lastYearContestants;
-        Console.WriteLine($"It is {isBigger.ToString().ToLower()} that this year's competition is bigger than last year's.");
+        // Comparison for contestant
+       if (currentYearContestants > 2 * lastYearContestants)
+        {
+            Console.WriteLine("The competition is more than twice as big this year!");
+        }
+        else if (currentYearContestants > lastYearContestants)
+        {
+            Console.WriteLine("The competition is bigger than ever!");
+        }
+        else
+        {
+            Console.WriteLine("A tighter race this year! Come out and cast your vote!");
+        }
     }
 } 
